@@ -1,0 +1,20 @@
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.main {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    margin-top: 80px;
+}
+
+.pagination {
+    /*margin-left: 50%;*/
+    align-self: center;
+    margin-top: auto;
+    margin-bottom: 100px;
+}
+

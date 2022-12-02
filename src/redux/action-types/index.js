@@ -1,0 +1,1 @@
+export const SHOW_STATE_BUTTON = 'SHOW_STATE_BUTTON';

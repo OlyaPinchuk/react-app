@@ -1,0 +1,32 @@
+.pet {
+    border: gray solid 1px;
+    border-radius: 4px;
+    height: 200px;
+    width: 150px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    font-size: smaller;
+}
+
+.pet:hover {
+    cursor: pointer;
+    box-shadow: 5px 5px 5px azure;
+    width: 160px;
+    transition: 0.5s;
+}
+
+.avatar {
+    height: 100px;
+    width: 100px;
+    display: block;
+    margin: auto;
+    margin-top: 5px;
+
+}
+
+/*.container {*/
+/*    display: flex;*/
+/*    flex-wrap: wrap;*/
+/*    justify-content: space-evenly;*/
+/*}*/
+

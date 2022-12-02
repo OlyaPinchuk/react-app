@@ -1,0 +1,33 @@
+.main-log {
+    margin-top: 70px;
+    /*background-color: red;*/
+    height: 100vh;
+}
+
+.form {
+    margin-top: 200px;
+    margin-left: 35%;
+    width: 500px;
+    border: 1px lightsteelblue solid;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    padding: 20px 20px;
+    box-shadow: lightsteelblue 0 20px 30px -10px;
+}
+
+.title {
+    margin: auto;
+    font-size: larger;
+    color: grey;
+}
+
+.inputs {
+    display: flex;
+    flex-direction: column;
+    margin: 10px 20px;
+}
+
+.input {
+    margin-top: 5px;
+}

@@ -1,0 +1,27 @@
+.pet {
+    border: lightsteelblue solid 1px;
+    border-radius: 4px;
+    height: 200px;
+    width: 150px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    font-size: smaller;
+    padding: 10px;
+    font-family: Courier;
+    font-size: medium;
+}
+
+.pet:hover {
+    cursor: pointer;
+    box-shadow: 5px 5px 5px lightsteelblue;
+    width: 160px;
+    transition: 0.5s;
+}
+
+.avatar {
+    height: 100px;
+    width: 100px;
+    display: block;
+    margin: auto;
+    margin-top: 5px;
+}

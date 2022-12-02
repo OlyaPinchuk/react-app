@@ -1,0 +1,385 @@
+{
+  "pets": [
+    {
+      "id": "1",
+      "name": "Finland",
+      "species": "cat",
+      "image": "./cat.png"
+    },
+    {
+      "id": "2",
+      "name": "Norway",
+      "species": "cat"
+    },
+    {
+      "id": "3",
+      "name": "Japan",
+      "species": "Tokyo"
+    },
+    {
+      "id": "4",
+      "name": "Germany",
+      "species": "Berlin"
+    },
+    {
+      "id": "6",
+      "name": "Kenya",
+      "species": "Nairobi"
+    },
+    {
+      "id": "7",
+      "name": "Sweden",
+      "species": "Stockholm"
+    },
+    {
+      "id": "gZVV5gn"
+    },
+    {
+      "id": "MBLq9Bi"
+    },
+    {
+      "id": "8b4hjdA"
+    },
+    {
+      "id": 8,
+      "name": "Ukraine",
+      "species": "Kyiv"
+    },
+    {
+      "id": 9,
+      "name": "Ukraine",
+      "species": "Kyiv"
+    },
+    {
+      "id": 10,
+      "name": "Ukraine",
+      "species": "cat"
+    },
+    {
+      "id": 9.58910916481678,
+      "name": "Ukraine",
+      "species": "cat"
+    },
+    {
+      "id": 5,
+      "name": "Ukraine",
+      "species": "cat"
+    },
+    {
+      "id": "G44_Jlf",
+      "name": "Ukraine",
+      "species": "cat"
+    },
+    {
+      "id": "BF9qpeV",
+      "name": "Ukraine",
+      "species": "cat"
+    },
+    {
+      "name": "Ukraine",
+      "species": "cat",
+      "id": "LF_Mhqk"
+    },
+    {
+      "name": "Ukraine",
+      "species": "cat",
+      "id": "W6FeV1a"
+    },
+    {
+      "name": "Ukraine",
+      "species": "cat",
+      "id": "FuTjIJ3"
+    },
+    {
+      "name": "Ukraine",
+      "species": "cat",
+      "id": "Y7nQV91"
+    },
+    {
+      "name": "Ukraine",
+      "species": "cat",
+      "id": "dvbPXma"
+    },
+    {
+      "name": "Ukraine",
+      "species": "cat",
+      "id": "gYv70Bq"
+    },
+    {
+      "name": "Ukraine",
+      "species": "cat",
+      "id": "HZi977y"
+    },
+    {
+      "name": "Ukraine",
+      "species": "cat",
+      "id": "FwVm7Jq"
+    },
+    {
+      "name": "Ukraine",
+      "species": "cat",
+      "id": "eTdxgAh"
+    },
+    {
+      "name": "Ukraine",
+      "species": "cat",
+      "id": "-b0TYKK"
+    },
+    {
+      "name": "Ukraine",
+      "species": "cat",
+      "id": "GzTTGqM"
+    },
+    {
+      "name": "Ukraine",
+      "species": "cat",
+      "id": "sucQiBP"
+    },
+    {
+      "name": "Ukraine",
+      "species": "cat",
+      "id": "kZzfWMc"
+    },
+    {
+      "name": "Ukraine",
+      "species": "cat",
+      "id": "TdIpppE"
+    },
+    {
+      "name": "Ukraine",
+      "species": "cat",
+      "id": "yGE0kdp"
+    },
+    {
+      "name": "Ukraine",
+      "species": "cat",
+      "id": "aV3uSNc"
+    },
+    {
+      "name": "Ukraine",
+      "species": "cat",
+      "id": "WH6mgoL"
+    },
+    {
+      "name": "Ukraine",
+      "species": "cat",
+      "id": "0XmoTnh"
+    },
+    {
+      "name": "Ukraine",
+      "species": "cat",
+      "id": "2b5-fk4"
+    },
+    {
+      "name": "Ukraine",
+      "species": "cat",
+      "id": "rQJU9TF"
+    },
+    {
+      "name": "Ukraine",
+      "species": "cat",
+      "id": "PhftlMO"
+    },
+    {
+      "name": "Ukraine",
+      "species": "cat",
+      "id": "1l_2EJF"
+    },
+    {
+      "name": "Ukraine",
+      "species": "cat",
+      "id": "7-k9rW1"
+    },
+    {
+      "name": "Ukraine",
+      "species": "cat",
+      "id": "8lO6M00"
+    },
+    {
+      "name": "Ukraine",
+      "species": "cat",
+      "id": "Zx9H0_9"
+    },
+    {
+      "name": "Ukraine",
+      "species": "cat",
+      "id": "7ddmLNI"
+    },
+    {
+      "name": "Ukraine",
+      "species": "cat",
+      "id": "zykpCLU"
+    },
+    {
+      "name": "Ukraine",
+      "species": "cat",
+      "id": "8bC15FU"
+    },
+    {
+      "name": "Ukraine",
+      "species": "cat",
+      "id": "zRgJPpl"
+    },
+    {
+      "name": "Ukraine",
+      "species": "cat",
+      "id": "8RWJK72"
+    },
+    {
+      "name": "Ukraine",
+      "species": "cat",
+      "id": "ZCwurHs"
+    },
+    {
+      "name": "Ukraine",
+      "species": "cat",
+      "id": "gqNRvmL"
+    },
+    {
+      "name": "Ukraine",
+      "species": "cat",
+      "id": "eIsA9Ck"
+    },
+    {
+      "name": "Ukraine",
+      "species": "cat",
+      "id": "Hct-0as"
+    },
+    {
+      "name": "Ukraine",
+      "species": "cat",
+      "id": "t-4ssCQ"
+    },
+    {
+      "name": "Ukraine",
+      "species": "cat",
+      "id": "t0piyBJ"
+    },
+    {
+      "name": "Ukraine",
+      "species": "cat",
+      "id": "XpEPd_I"
+    },
+    {
+      "name": "Ukraine",
+      "species": "cat",
+      "id": "-7OQsY6"
+    },
+    {
+      "name": "Ukraine",
+      "species": "cat",
+      "id": "I9U2h4m"
+    },
+    {
+      "name": "Ukraine",
+      "species": "cat",
+      "id": "QP9HCgV"
+    },
+    {
+      "name": "Ukraine",
+      "species": "cat",
+      "id": "s7NVS6Q"
+    },
+    {
+      "name": "Ukraine",
+      "species": "cat",
+      "id": "2ARTDoD"
+    },
+    {
+      "name": "Ukraine",
+      "species": "cat",
+      "id": "hI2nR7h"
+    },
+    {
+      "name": "Ukraine",
+      "species": "cat",
+      "id": "iBplg_7"
+    },
+    {
+      "name": "Ukraine",
+      "species": "cat",
+      "id": "5TJgW5W"
+    },
+    {
+      "name": "Ukraine",
+      "species": "cat",
+      "id": "UwtkJCa"
+    },
+    {
+      "name": "Ukraine",
+      "species": "cat",
+      "id": "w15cneZ"
+    },
+    {
+      "name": "Ukraine",
+      "species": "cat",
+      "id": "dc6YkOX"
+    },
+    {
+      "name": "Ukraine",
+      "species": "cat",
+      "id": "EUsS8hV"
+    },
+    {
+      "name": "Ukraine",
+      "species": "cat",
+      "id": "R54Ms0Y"
+    },
+    {
+      "name": "Ukraine",
+      "species": "cat",
+      "id": "pD7VS0l"
+    },
+    {
+      "name": "Ukraine",
+      "species": "cat",
+      "id": "9H8UqNL"
+    },
+    {
+      "name": "Ukraine",
+      "species": "cat",
+      "id": "Y-gDQ0s"
+    },
+    {
+      "name": "Ukraine",
+      "species": "cat",
+      "id": "lZ61JUq"
+    },
+    {
+      "name": "Ukraine",
+      "species": "cat",
+      "id": "_9tfYD-"
+    },
+    {
+      "name": "Ukraine",
+      "species": "cat",
+      "id": "0wo95ST"
+    },
+    {
+      "name": "Ukraine",
+      "species": "cat",
+      "id": "trT32V_"
+    },
+    {
+      "name": "Ukraine",
+      "species": "cat",
+      "id": "hgqLGfX"
+    },
+    {
+      "name": "Ukraine",
+      "species": "cat",
+      "id": "22Pp0Wn"
+    },
+    {
+      "name": "Ukraine",
+      "species": "cat",
+      "id": "emtFpqS"
+    }
+  ],
+  "users" : [
+    {
+      "username": "olya",
+      "password": "olya"
+    }
+  ]
+}
